@@ -7,4 +7,6 @@ He is eighteen and eligible to join Neo and Trinity, who pieced together that th
 
 The Machines officially agree to a conditional cease-fire where Zion recognizes their ancestors' part in the lead-up to the War.  Machines cease attacking hoverships.   Humans and machines share information about rogue viruses and spyware that likely will still plague both sides.
 
-** This project served as a fantastic tool for learning how to use GitExtensions on Windows.  I will try to tailor it to other GUIs, such as Tower for Mac, SourceTree, et cetera.
+** This project served as a fantastic tool for learning how to use GitExtensions on Windows.  I will try to tailor it or similar ideas to other GUIs, such as Tower for Mac, SourceTree, et cetera.
+
+If at all possible, I will create a version for the purpose of refining my skills with the command-line interface.
